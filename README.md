@@ -7,24 +7,29 @@
     -   [ ] CSS is used to create stunning webpages.
     -   [ ] It can enhance the user experience, and can make a webpage unquie and stand out amongst the rest.
     -   [ ] It is absolutely beautiful to see a webpage come to life and become even more beautiful.
+  <br>
 
 -   [ ] Syntax for these rules looks likee this:
     -   [ ] <img src="img/d-rule-syntax-diagram.png" width="650" alt="How the Syntax rules looks for CSS">
--   [ ] Every rule begins with a selector then followed by curly brackets { }.
-    -   [ ] Inside the curly brackets, declarations are made of property:value pairs seperated by a colon.
-    -   [ ] Each line will end with a semicolon ; .
-    -   [ ] CSS files have as many rules as desired. Even most webpages commonly used could have several hundres of CSS rules for it.
+    -   [ ] Every rule begins with a selector then followed by curly brackets { }.
+        -   [ ] Inside the curly brackets, declarations are made of property:value pairs seperated by a colon.
+        -   [ ] Each line will end with a semicolon ; .
+        -   [ ] CSS files have as many rules as desired. Even most webpages commonly used could have several hundres of CSS rules for it.
+
+<br>
 
 -   [ ] CSS Selectors are used to determine which CSS elements are styled
--   [ ] The most common type of selectors is the following:
-    -   [ ] Type Selectors:
-        -   [ ] Selects all the matching elements on the webpage for styling
--   [ ] HTML elements can be selected by their HTML attributes
-    -   [ ] Selecing an element by "class" is done by using a period ".", and can be used to style multiple elements with a matching "class" attribute
-    -   [ ] Selecting an element by "id" is done by using a hashtag "#", and is used to style a single element with a matching "id" attribute.
+    -   [ ] The most common type of selectors is the following:
+        -   [ ] Type Selectors:
+            -   [ ] Selects all the matching elements on the webpage for styling
+    -   [ ] HTML elements can be selected by their HTML attributes
+        -   [ ] Selecing an element by "class" is done by using a period ".", and can be used to style multiple elements with a matching "class" attribute
+        -   [ ] Selecting an element by "id" is done by using a hashtag "#", and is used to style a single element with a matching "id" attribute.
 
--   [ ] Instead of selecting every element with a matching class only "div" elements that either have a class of "class-name" or an "id" of "id-name".
-    -   [ ] This selection is known as "targeting"
+    -   [ ] Instead of selecting every element with a matching class only "div" elements that either have a class of "class-name" or an "id" of "id-name".
+        -   [ ] This selection is known as "targeting"
+
+<br>
 
 -   [ ] CSS allows the same styling to be added to different elements
     -   [ ] When adding styling to the webpage, CSS may start to become repetitive and less readable.
@@ -36,12 +41,15 @@
         -   [ ] For instance:
         -   [ ] <img src="img/c-combining.png">
 
+<br>
 
 -   [ ] The &lt;br&gt; element:
            -  [ ] Creates a new line in your code and forces whatever comes after to start on a new line
-       -  [ ] The &lt;hr&gt; element:
-          -  [ ]  Adds a horizontal line or dividing line across the webpage
-       -  [ ] Used to separate sections or different topics on a webpage
+-   [ ] The &lt;hr&gt; element:
+    -   [ ]  Adds a horizontal line or dividing line across the webpage
+    -   [ ] Used to separate sections or different topics on a webpage
+
+<br>
 
 -   [ ]  The &lt;footer&gt; element:
     -   [ ]  This element tends to finish off the webpage as it is located at the very bottom of the webpage and is the last set of items that will be seen
