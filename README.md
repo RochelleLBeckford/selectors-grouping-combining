@@ -65,7 +65,8 @@
                 -   [ ] <a href="/privacy" target="_blank">Privacy</a>
                 -   [ ] When the user clicks one of these external links, they would be redirected to a new page with the informat ion
 
----
+<hr>
+<br>
 
 -   [ ] Encompass:
     -   [ ] HTML
