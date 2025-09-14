@@ -7,7 +7,8 @@
     -   [ ] CSS is used to create stunning webpages.
     -   [ ] It can enhance the user experience, and can make a webpage unquie and stand out amongst the rest.
     -   [ ] It is absolutely beautiful to see a webpage come to life and become even more beautiful.
-  <br>
+<hr>
+<br>
 
 -   [ ] Syntax for these rules looks likee this:
     -   [ ] <img src="img/d-rule-syntax-diagram.png" width="650" alt="How the Syntax rules looks for CSS">
@@ -15,7 +16,7 @@
         -   [ ] Inside the curly brackets, declarations are made of property:value pairs seperated by a colon.
         -   [ ] Each line will end with a semicolon ; .
         -   [ ] CSS files have as many rules as desired. Even most webpages commonly used could have several hundres of CSS rules for it.
-
+<hr>
 <br>
 
 -   [ ] CSS Selectors are used to determine which CSS elements are styled
@@ -28,7 +29,7 @@
 
     -   [ ] Instead of selecting every element with a matching class only "div" elements that either have a class of "class-name" or an "id" of "id-name".
         -   [ ] This selection is known as "targeting"
-
+<hr>
 <br>
 
 -   [ ] CSS allows the same styling to be added to different elements
@@ -40,7 +41,7 @@
     -   [ ] There is a way to get more specific by using the ">" symbol to select child elements, such as only "li" elements under unordered list
         -   [ ] For instance:
         -   [ ] <img src="img/c-combining.png">
-
+<hr>
 <br>
 
 -   [ ] The &lt;br&gt; element:
@@ -48,7 +49,7 @@
 -   [ ] The &lt;hr&gt; element:
     -   [ ]  Adds a horizontal line or dividing line across the webpage
     -   [ ] Used to separate sections or different topics on a webpage
-
+<hr>
 <br>
 
 -   [ ]  The &lt;footer&gt; element:
