@@ -8,7 +8,6 @@
     -   [ ] It can enhance the user experience, and can make a webpage unquie and stand out amongst the rest.
     -   [ ] It is absolutely beautiful to see a webpage come to life and become even more beautiful.
 <hr>
-<br>
 
 -   [ ] Syntax for these rules looks likee this:
     -   [ ] <img src="img/d-rule-syntax-diagram.png" width="650" alt="How the Syntax rules looks for CSS">
@@ -30,7 +29,6 @@
     -   [ ] Instead of selecting every element with a matching class only "div" elements that either have a class of "class-name" or an "id" of "id-name".
         -   [ ] This selection is known as "targeting"
 <hr>
-<br>
 
 -   [ ] CSS allows the same styling to be added to different elements
     -   [ ] When adding styling to the webpage, CSS may start to become repetitive and less readable.
@@ -42,7 +40,6 @@
         -   [ ] For instance:
         -   [ ] <img src="img/c-combining.png">
 <hr>
-<br>
 
 -   [ ] The &lt;br&gt; element:
            -  [ ] Creates a new line in your code and forces whatever comes after to start on a new line
@@ -50,7 +47,6 @@
     -   [ ]  Adds a horizontal line or dividing line across the webpage
     -   [ ] Used to separate sections or different topics on a webpage
 <hr>
-<br>
 
 -   [ ]  The &lt;footer&gt; element:
     -   [ ]  This element tends to finish off the webpage as it is located at the very bottom of the webpage and is the last set of items that will be seen
@@ -66,7 +62,6 @@
                 -   [ ] When the user clicks one of these external links, they would be redirected to a new page with the informat ion
 
 <hr>
-<br>
 
 -   [ ] Encompass:
     -   [ ] HTML
