@@ -1,4 +1,6 @@
-# Practice: Creating a Webpage building upon HTML basics and understanding how to use CSS selectors and properties to bring styling with colors, fonts, sizing, layouts, and much more...
+# Practice: Creating a Webpage building upon HTML basics and understanding how to use CSS
+
+## Understanding selectors and properties to bring styling with colors, fonts, sizing, layouts, and much more...
 
 ### Practce understanding CSS Grouping and Combining Selectors
 
